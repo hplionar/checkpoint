@@ -1,2 +1,2 @@
 def myfavfruit():
-    return []
+    return ["passionfruit"]

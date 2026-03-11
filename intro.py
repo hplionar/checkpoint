@@ -1,0 +1,2 @@
+def myfavfruit():
+    return []
